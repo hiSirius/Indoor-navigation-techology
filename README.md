@@ -11,6 +11,8 @@ ARCore/ARKit学习资料
 - ARCore之路－运动跟踪之深入理解https://www.doulipark.com/2019/1003.html
 - ARCore and Arkit: What is under the hood : Anchors and World Mapping (Part 1)https://blog.rabimba.com/2018/10/arcore-and-arkit-what-is-under-hood.html
 - ARCore and Arkit, What is under the hood: SLAM (Part 2)https://blog.rabimba.com/2018/10/arcore-and-arkit-SLAM.html
+- はじめようARCore：自己位置推定・平面検出・FaceTracking https://www.slideshare.net/ssuserc0d7fb/arcorefacetracking-136448820
+
 
 
 
