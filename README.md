@@ -6,6 +6,7 @@ ARCore/ARKit学习资料
 
 # 与室内导航相关的论文
 # 室内导航业界案例
+- Using Global Localization to Improve Navigation https://ai.googleblog.com/2019/02/using-global-localization-to-improve.html
 - 滴滴与Google合作，允许乘客在大型室内场景快速找到专车。 http://t.cn/Ainh09T5?m=4418519225097124&u=2209030102
 # 实际开发技术分享
 - ARCore之路－运动跟踪之深入理解 https://www.doulipark.com/2019/1003.html
