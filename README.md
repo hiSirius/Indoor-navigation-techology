@@ -16,6 +16,8 @@ Large-Scale Industry Environments https://www2.cs.fau.de/publication/download/GR
 - Using Global Localization to Improve Navigation https://ai.googleblog.com/2019/02/using-global-localization-to-improve.html
 - 滴滴与Google合作，允许乘客在大型室内场景快速找到专车。 http://t.cn/Ainh09T5?m=4418519225097124&u=2209030102
 - Ninsar推出移动室内导航解决方案和旅行私人AR向导 http://www.arinchina.com/article-10930-1.html
+- 胡罗舶夺冠 AR购物-Walmart全球购解决方案 https://www.zhihu.com/people/coolhobo/posts
+
 # AR实际开发技术分享
 - ARCore之路－运动跟踪之深入理解 https://www.doulipark.com/2019/1003.html
 - ARCore and Arkit: What is under the hood : Anchors and World Mapping (Part 1) https://blog.rabimba.com/2018/10/arcore-and-arkit-what-is-under-hood.html
@@ -25,6 +27,7 @@ Large-Scale Industry Environments https://www2.cs.fau.de/publication/download/GR
 - ARCore在哪些方面比ARKit更优秀？https://zhuanlan.zhihu.com/p/62394540
 - Augmented reality as a general indoor and outdoor navigation solutionhttps://pdfs.semanticscholar.org/e523/460bdf0c78a7e8278da87d19c4324bb6fd16.pdf
 - An ARCore Based User Centric Assistive Navigation System for Visually Impaired People https://www.mdpi.com/2076-3417/9/5/989
+- Google ARCore和京东AR开发者大赛获奖名单和部分作品展示 https://zhuanlan.zhihu.com/p/68942473
 
 
 
