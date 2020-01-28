@@ -14,6 +14,7 @@ ARCore/ARKit学习资料
 - ARCore and Arkit: What is under the hood : Anchors and World Mapping (Part 1) https://blog.rabimba.com/2018/10/arcore-and-arkit-what-is-under-hood.html
 - ARCore and Arkit, What is under the hood: SLAM (Part 2) https://blog.rabimba.com/2018/10/arcore-and-arkit-SLAM.html
 - はじめようARCore：自己位置推定・平面検出・FaceTracking https://www.slideshare.net/ssuserc0d7fb/arcorefacetracking-136448820
+- Indoor Real-Time Navigation with SLAM on Your Mobile https://community.arm.com/developer/tools-software/graphics/b/blog/posts/indoor-real-time-navigation-with-slam-on-your-mobile
 
 
 
