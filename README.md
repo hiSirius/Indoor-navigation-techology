@@ -29,6 +29,8 @@ Large-Scale Industry Environments https://www2.cs.fau.de/publication/download/GR
 - An ARCore Based User Centric Assistive Navigation System for Visually Impaired People https://www.mdpi.com/2076-3417/9/5/989
 - Google ARCore和京东AR开发者大赛获奖名单和部分作品展示 https://zhuanlan.zhihu.com/p/68942473
 - AR Cloud and the future https://www.youtube.com/watch?v=KqHk1cddMX4
+- 增强现实技术的“魔法”奇迹！移动 AR 运作原理全面揭秘 https://www.infoq.cn/article/KdXmDp_5pddADoCQDZ57
+
 
 
 
