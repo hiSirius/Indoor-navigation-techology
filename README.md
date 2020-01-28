@@ -28,8 +28,29 @@ Large-Scale Industry Environments https://www2.cs.fau.de/publication/download/GR
 - Augmented reality as a general indoor and outdoor navigation solutionhttps://pdfs.semanticscholar.org/e523/460bdf0c78a7e8278da87d19c4324bb6fd16.pdf
 - An ARCore Based User Centric Assistive Navigation System for Visually Impaired People https://www.mdpi.com/2076-3417/9/5/989
 - Google ARCore和京东AR开发者大赛获奖名单和部分作品展示 https://zhuanlan.zhihu.com/p/68942473
-- AR Cloud and the future https://www.youtube.com/watch?v=KqHk1cddMX4
 - 增强现实技术的“魔法”奇迹！移动 AR 运作原理全面揭秘 https://www.infoq.cn/article/KdXmDp_5pddADoCQDZ57
+## 核心技术- AR Cloud
+- AR Cloud and the future https://www.youtube.com/watch?v=KqHk1cddMX4
+### 研究AR云技术的公司：
+- SenseAR http://openar.sensetime.com/
+- Insider Navigation http://insidernavigation.com/
+- Scape https://scape.io/
+- YOUar http://youar.io/demos/
+- 6D http://6d.ai/
+- Sturfee https://sturfee.com/
+- placenote https://placenote.com/
+- 8th Wall https://www.8thwall.com
+- navisens https://www.navisens.com/
+- contextgrid www.contextgrid.com
+- ubiquity6 https://ubiquity6.com/
+- blue vision https://bluevisionlabs.com
+- immersal https://www.immersal.com/
+- fantasmo https://fantasmo.io/
+- dent reality https://www.dentreality.com/
+- open ar foundation https://arcloudfoundation.org/https://gsdex.org/
+- EasyAR https://www.easyar.cn
+
+
 
 
 
