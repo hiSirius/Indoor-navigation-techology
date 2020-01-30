@@ -20,6 +20,8 @@ Large-Scale Industry Environments https://www2.cs.fau.de/publication/download/GR
 - Ninsar推出移动室内导航解决方案和旅行私人AR向导 http://www.arinchina.com/article-10930-1.html
 - 胡罗舶夺冠 AR购物-Walmart全球购解决方案 https://www.zhihu.com/people/coolhobo/posts
 - Granlund AR for Facility Management https://www.youtube.com/watch?v=D2Xx9eoanBg
+- Viewing your 3D BIM data in the cloud with Autodesk Forge https://www.youtube.com/watch?v=QIXCFWdw9m8
+
 
 # AR实际开发技术分享
 - ARCore之路－运动跟踪之深入理解 https://www.doulipark.com/2019/1003.html
