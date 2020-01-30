@@ -19,6 +19,7 @@ Large-Scale Industry Environments https://www2.cs.fau.de/publication/download/GR
 - 滴滴与Google合作，允许乘客在大型室内场景快速找到专车。 http://t.cn/Ainh09T5?m=4418519225097124&u=2209030102
 - Ninsar推出移动室内导航解决方案和旅行私人AR向导 http://www.arinchina.com/article-10930-1.html
 - 胡罗舶夺冠 AR购物-Walmart全球购解决方案 https://www.zhihu.com/people/coolhobo/posts
+- Granlund AR for Facility Management https://www.youtube.com/watch?v=D2Xx9eoanBg
 
 # AR实际开发技术分享
 - ARCore之路－运动跟踪之深入理解 https://www.doulipark.com/2019/1003.html
@@ -31,6 +32,7 @@ Large-Scale Industry Environments https://www2.cs.fau.de/publication/download/GR
 - An ARCore Based User Centric Assistive Navigation System for Visually Impaired People https://www.mdpi.com/2076-3417/9/5/989
 - Google ARCore和京东AR开发者大赛获奖名单和部分作品展示 https://zhuanlan.zhihu.com/p/68942473
 - 增强现实技术的“魔法”奇迹！移动 AR 运作原理全面揭秘 https://www.infoq.cn/article/KdXmDp_5pddADoCQDZ57
+
 ## 核心技术- AR Cloud
 - AR Cloud and the future https://www.youtube.com/watch?v=KqHk1cddMX4
 ### 研究AR云技术的公司：
