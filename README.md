@@ -10,6 +10,8 @@ Large-Scale Industry Environments https://www2.cs.fau.de/publication/download/GR
 - ARKit as indoor positioning system https://s3.amazonaws.com/academia.edu.documents/61170816/157060307320191109-19656-482p4f.pdf?response-content-disposition=inline%3B%20filename%3DARKit_as_indoor_positioning_system.pdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWOWYYGZ2Y53UL3A%2F20200128%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200128T065639Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=3bf07ded83522bdb1ad46232552018e78d5799d6bd320aaa1c99b692b3e8d7b1
 - Indoor Navigation with Augmented Reality https://link.springer.com/chapter/10.1007/978-981-13-8715-9_20
 - An Indoor Navigation Robot Using Augmented Reality https://ieeexplore.ieee.org/abstract/document/8813348
+- Evaluation of Mobile Augmented Reality for Indoor Navigation http://www.diva-portal.org/smash/get/diva2:1322440/FULLTEXT01.pdf
+- MRsive: an Augmented Reality Tool for Enhancing Wayfinding and Engagement With Art in Museums http://openresearch.ocadu.ca/id/eprint/2496/35/AlRabbaa_Jad_2019_MDES_DF_Thesis.pdf
 
 
 # AR室内导航业界案例
