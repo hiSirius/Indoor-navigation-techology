@@ -37,6 +37,7 @@ Large-Scale Industry Environments https://www2.cs.fau.de/publication/download/GR
 
 ## 核心技术- AR Cloud
 - AR Cloud and the future https://www.youtube.com/watch?v=KqHk1cddMX4
+- AR必备一：AR云技术（Cloud Anchor）https://www.jianshu.com/p/418214e4f174
 ### 研究AR云技术的公司：
 - SenseAR http://openar.sensetime.com/
 - Insider Navigation http://insidernavigation.com/
