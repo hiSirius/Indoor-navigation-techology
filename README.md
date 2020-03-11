@@ -1,10 +1,10 @@
 # ARCore-ARKitTechnology
 ARCore/ARKit学习资料
-# 官方文档
+# Offical Documentations
 - Google ARCore：https://www.infoq.cn/article/1jwL4NOhehcEJgvh-KDI
 - Apple ARKit :https://developer.apple.com/augmented-reality/
 
-# AR室内导航相关的论文
+# Paper About Indoor Navigation Based on AR
 - Localization Limitations of ARCore, ARKit, and Hololens in Dynamic
 Large-Scale Industry Environments https://www2.cs.fau.de/publication/download/GRAPP2020.pdf
 - ARKit as indoor positioning system https://s3.amazonaws.com/academia.edu.documents/61170816/157060307320191109-19656-482p4f.pdf?response-content-disposition=inline%3B%20filename%3DARKit_as_indoor_positioning_system.pdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWOWYYGZ2Y53UL3A%2F20200128%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200128T065639Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=3bf07ded83522bdb1ad46232552018e78d5799d6bd320aaa1c99b692b3e8d7b1
@@ -14,7 +14,7 @@ Large-Scale Industry Environments https://www2.cs.fau.de/publication/download/GR
 - MRsive: an Augmented Reality Tool for Enhancing Wayfinding and Engagement With Art in Museums http://openresearch.ocadu.ca/id/eprint/2496/35/AlRabbaa_Jad_2019_MDES_DF_Thesis.pdf
 
 
-# AR室内导航业界案例
+# AR Indoor Solution 
 - Using Global Localization to Improve Navigation https://ai.googleblog.com/2019/02/using-global-localization-to-improve.html
 - 滴滴与Google合作，允许乘客在大型室内场景快速找到专车。 http://t.cn/Ainh09T5?m=4418519225097124&u=2209030102
 - Ninsar推出移动室内导航解决方案和旅行私人AR向导 http://www.arinchina.com/article-10930-1.html
@@ -23,7 +23,7 @@ Large-Scale Industry Environments https://www2.cs.fau.de/publication/download/GR
 - Viewing your 3D BIM data in the cloud with Autodesk Forge https://www.youtube.com/watch?v=QIXCFWdw9m8
 
 
-# AR实际开发技术分享
+# AR Development
 - ARCore之路－运动跟踪之深入理解 https://www.doulipark.com/2019/1003.html
 - ARCore and Arkit: What is under the hood : Anchors and World Mapping (Part 1) https://blog.rabimba.com/2018/10/arcore-and-arkit-what-is-under-hood.html
 - ARCore and Arkit, What is under the hood: SLAM (Part 2) https://blog.rabimba.com/2018/10/arcore-and-arkit-SLAM.html
@@ -35,10 +35,10 @@ Large-Scale Industry Environments https://www2.cs.fau.de/publication/download/GR
 - Google ARCore和京东AR开发者大赛获奖名单和部分作品展示 https://zhuanlan.zhihu.com/p/68942473
 - 增强现实技术的“魔法”奇迹！移动 AR 运作原理全面揭秘 https://www.infoq.cn/article/KdXmDp_5pddADoCQDZ57
 
-## 核心技术- AR Cloud
+## Critical Technology- AR Cloud
 - AR Cloud and the future https://www.youtube.com/watch?v=KqHk1cddMX4
 - AR必备一：AR云技术（Cloud Anchor）https://www.jianshu.com/p/418214e4f174
-### 研究AR云技术的公司：
+### AR Cloud Companies：
 - SenseAR http://openar.sensetime.com/
 - Insider Navigation http://insidernavigation.com/
 - Scape https://scape.io/
