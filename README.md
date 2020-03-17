@@ -1,4 +1,4 @@
-# ARCore-ARKitTechnology
+# ARCore-ARKit Technology
 ARCore/ARKit学习资料
 # Offical Documentations
 - Google ARCore：https://www.infoq.cn/article/1jwL4NOhehcEJgvh-KDI
