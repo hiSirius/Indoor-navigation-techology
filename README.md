@@ -6,6 +6,7 @@ ARCore/ARKit学习资料
 
 # Paper About Indoor Navigation Based on AR
 - SURVEY OF NAVIGATION SYSTEMS FOR THE VISUAL IMPAIRED 🔥🔥🔥 https://arxiv.org/pdf/1906.05917.pdf
+![NAVIGATION SYSTEMS FOR THE VISUAL IMPAIRED](https://upload-images.jianshu.io/upload_images/5827670-b9f6b88d32889f7b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 - Localization Limitations of ARCore, ARKit, and Hololens in Dynamic
 Large-Scale Industry Environments https://www2.cs.fau.de/publication/download/GRAPP2020.pdf
 - ARKit as indoor positioning system https://s3.amazonaws.com/academia.edu.documents/61170816/157060307320191109-19656-482p4f.pdf?response-content-disposition=inline%3B%20filename%3DARKit_as_indoor_positioning_system.pdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWOWYYGZ2Y53UL3A%2F20200128%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200128T065639Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=3bf07ded83522bdb1ad46232552018e78d5799d6bd320aaa1c99b692b3e8d7b1
