@@ -5,7 +5,8 @@ ARCore/ARKit学习资料
 - Apple ARKit :https://developer.apple.com/augmented-reality/
 
 # Paper About Indoor Navigation Based on AR
-- SURVEY OF NAVIGATION SYSTEMS FOR THE VISUAL IMPAIRED 🔥🔥🔥 https://arxiv.org/pdf/1906.05917.pdf
+- [Leveraging Augmented Reality to Create Apps for People with Visual Disabilities: A Case Study in Indoor Navigation](https://dl.acm.org/doi/pdf/10.1145/3308561.3353788)🔥🔥🔥 [Github](https://github.com/occamLab/Clew)
+- SURVEY OF NAVIGATION SYSTEMS FOR THE VISUAL IMPAIRED  https://arxiv.org/pdf/1906.05917.pdf
 ![NAVIGATION SYSTEMS FOR THE VISUAL IMPAIRED](https://upload-images.jianshu.io/upload_images/5827670-b9f6b88d32889f7b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 - Localization Limitations of ARCore, ARKit, and Hololens in Dynamic
 Large-Scale Industry Environments https://www2.cs.fau.de/publication/download/GRAPP2020.pdf
